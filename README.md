@@ -1,2 +1,2 @@
-# machinelearning_project
+## Machine learning Project
 This is the GitHub repository for Machine Learning - 1 project.
